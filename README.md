@@ -19,14 +19,13 @@ CAPITAL CITIES BY COUNTRY CODE MATCHES:
 =======================================
 India capital => New Delhi
 
-INVALID INPUT
 >>> india
 >>> CAPITAL CITIES BY COUNTRY NAME MATCHES:
 =======================================
 British Indian Ocean Territory capital => Diego Garcia
 India capital => New Delhi
 
-INVALID INPUT
+
 >>> co
 >>> CAPITAL CITIES BY COUNTRY NAME MATCHES:
 =======================================
