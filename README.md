@@ -2,7 +2,7 @@
 npm start
 
 # sample output
->>> Good to see you. Enter Country Code or partial/full country name.
+```>>> Good to see you. Enter Country Code or partial/full country name.
 >>> 123
 INVALID INPUT
 >>> a2
@@ -63,6 +63,6 @@ CAPITAL CITIES BY COUNTRY NAME MATCHES:
 Colombia capital => Bogotá
 Saint Barthélemy capital => Gustavia
 Saint Martin (French part) capital => Marigot
-Saint Pierre and Miquelon capital => Saint-Pierre
+Saint Pierre and Miquelon capital => Saint-Pierre```
 
 
