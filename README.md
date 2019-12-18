@@ -1,7 +1,7 @@
 # To run
 npm start
 
-# sample output
+# Sample output
 ```>>> Good to see you. Enter Country Code or partial/full country name.
 >>> 123
 INVALID INPUT
