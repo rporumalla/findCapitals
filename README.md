@@ -62,6 +62,6 @@ CAPITAL CITIES BY COUNTRY NAME MATCHES:
 Colombia capital => Bogotá
 Saint Barthélemy capital => Gustavia
 Saint Martin (French part) capital => Marigot
-Saint Pierre and Miquelon capital => Saint-Pierre```
+Saint Pierre and Miquelon capital => Saint-Pierre
 
 
